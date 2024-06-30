@@ -4,6 +4,6 @@ This was great opportunity for me to dive into the technical field and contribut
 
 
 ## Task1 -Number Guessing Game:
-The game in which system generates a random number from range, say 1 to 100. The player need to guess the number between 1 to 100 in 10 attempts. There will be 3 rounds each of 10 attempts. After each successfull guesses player will be awarded with some Score which is evaluated by [ Score = Max Attempt(i.e., 10) - Number of attempt at which player guesssed the word. ]  
+The game in which system generates a random number from range, say 1 to 100. The player need to guess the number between 1 to 100 in 10 attempts. There will be 3 rounds each of 10 attempts. After each successful guesses player will be awarded with some Score which is evaluated by [ Score = Max Attempt(i.e., 10) - Number of attempt at which player guessed the word ]  and after 3 rounds you will get the total score out of 30.
 
 
