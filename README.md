@@ -10,9 +10,9 @@ The game in which system generates a random number from range, say 1 to 100. The
 ## Task 2 - Atm Interface:
 We have all come across ATMs in our cities and it is built on Java. This project consist of 4 different classes i.e.,
 The project allows to perform following operations:
-1. Withdraw balance
+1. Check balance
 2. Deposit cash
-3. Widthdraw cash
+3. Withdraw cash
 4. Exit
 
 
